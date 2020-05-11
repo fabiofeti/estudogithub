@@ -1299,10 +1299,10 @@ body {
     padding: 3em 0 3em 0;
     overflow: hidden; }
     .main.style2 > .content {
-      -moz-transition: -moz-transform 600ms ease;
-      -webkit-transition: -webkit-transform 600ms ease;
-      -ms-transition: -ms-transform 600ms ease;
-      transition: transform 600ms ease;
+      -moz-transition: -moz-transform 500ms ease;
+      -webkit-transition: -webkit-transform 500ms ease;
+      -ms-transition: -ms-transform 500ms ease;
+      transition: transform 500ms ease;
       -moz-transform: translateZ(0);
       -webkit-transform: translateZ(0);
       -ms-transform: translateZ(0);
