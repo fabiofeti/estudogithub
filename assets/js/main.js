@@ -129,7 +129,7 @@
 							.scrollex({
 								top:		'30vh',
 								bottom:		'30vh',
-								delay:		50,
+								delay:		300,
 								initialize:	function() { $(this).addClass('inactive'); },
 								terminate:	function() { $(this).removeClass('inactive'); },
 								enter:		function() { $(this).removeClass('inactive'); },
@@ -140,7 +140,7 @@
 						$('.main.style1')
 							.scrollex({
 								mode:		'middle',
-								delay:		10,
+								delay:		300,
 								initialize:	function() { $(this).addClass('inactive'); },
 								terminate:	function() { $(this).removeClass('inactive'); },
 								enter:		function() { $(this).removeClass('inactive'); },
