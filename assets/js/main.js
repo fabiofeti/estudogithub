@@ -140,7 +140,7 @@
 						$('.main.style1')
 							.scrollex({
 								mode:		'middle',
-								delay:		50,
+								delay:		75,
 								initialize:	function() { $(this).addClass('inactive'); },
 								terminate:	function() { $(this).removeClass('inactive'); },
 								enter:		function() { $(this).removeClass('inactive'); },
@@ -150,7 +150,7 @@
 						$('.main.style2')
 							.scrollex({
 								mode:		'middle',
-								delay:		50,
+								delay:		75,
 								initialize:	function() { $(this).addClass('inactive'); },
 								terminate:	function() { $(this).removeClass('inactive'); },
 								enter:		function() { $(this).removeClass('inactive'); },
@@ -161,7 +161,7 @@
 						$('#contact')
 							.scrollex({
 								top:		'50%',
-								delay:		50,
+								delay:		75,
 								initialize:	function() { $(this).addClass('inactive'); },
 								terminate:	function() { $(this).removeClass('inactive'); },
 								enter:		function() { $(this).removeClass('inactive'); },
