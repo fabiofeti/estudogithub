@@ -1,14 +1,13 @@
 ## Pre create issue
 
-- [ ] Read the guidelines
-- [ ] Test in all browsers
-- [ ] ...
-
+-[ ] Read the guidelines
+-[ ] Teste in all browsers
+-[ ] ...
 
 ## Description
 
-Add here all the descriptions that you think it will be useful and valuable to this issue.
+Add here all the descriptions that you think be useful and valuable to this issue
 
-## Screenshots
+## Screenshot
 
-Add screenshots case needes, otherwise delete this section.
+Add screenshot case needs, otherwise delete this section
