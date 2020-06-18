@@ -2,7 +2,7 @@
 
 -[ ] Read the guidelines
 -[ ] Teste in all browsers
--[ ] ...
+-[ ] ....
 
 ## Description
 
